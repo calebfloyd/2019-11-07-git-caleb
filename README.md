@@ -1,4 +1,8 @@
-# Git workshop DCR 2019
+# DCR 2019 Git Workshop
+
+Git workshop for DCR 2019
+
+## local
 
 - `init`: initialize folder as git repo
 - `status`: see what is going on in the repo
