@@ -21,4 +21,12 @@ Git workshop notes.
   - `origin`: the default you give your remote
 - `push`: sending local changes to remote
 - `pull`: receiving changes from remote
+
+## Branches
+- `branch <branch_name>`: create a new branch
+- `checkout <branch_name>`: move to that branch
+  - `checkout -b <branch_name>`: create and move at the same time
+- `branch -a`: see what branches are there
+
+- `log --oneline --graph --decorate --all`: what is going on 
  	 
