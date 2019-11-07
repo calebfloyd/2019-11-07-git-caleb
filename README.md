@@ -31,3 +31,7 @@ Git workshop notes.
 - `log --oneline --graph --decorate --all`: what is going on 
  	 
 - `branch -d`: delete a branch that was merged
+  
+## Updating history
+
+- `rebase <branch_name>`: incorporate changes in <branch_name>, e.g. `master` into current branch, e.g. `project_template`
