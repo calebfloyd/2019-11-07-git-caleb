@@ -29,8 +29,9 @@ Git workshop notes.
 - `branch -a`: see what branches are there
 
 - `log --oneline --graph --decorate --all`: what is going on 
- 	 
+
 - `branch -d`: delete a branch that was merged
+  - `branch -D`: force delete a branch that was *not* merged
   
 ## Updating history
 
