@@ -36,3 +36,4 @@ Git workshop notes.
 ## Updating history
 
 - `rebase <branch_name>`: incorporate changes in <branch_name>, e.g. `master` into current branch, e.g. `project_template`
+  - You perform this command on the feature branch, not on `master`.
