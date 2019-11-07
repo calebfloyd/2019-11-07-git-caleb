@@ -30,3 +30,4 @@ Git workshop notes.
 
 - `log --oneline --graph --decorate --all`: what is going on 
  	 
+- `branch -d`: delete a branch that was merged
